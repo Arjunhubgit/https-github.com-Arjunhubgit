@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Arjunhubgit/https-github.com-Arjunhubgit/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arjunhubgit/https-github.com-Arjunhubgit/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
@@ -28,5 +29,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Arjunhubgit/https-github.com-Arjunhubgit/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arjunhubgit/https-github.com-Arjunhubgit/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
